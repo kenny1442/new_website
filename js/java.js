@@ -19,7 +19,7 @@ document.querySelector('.button123').addEventListener('click',function(){
 
 
 
-var width=1500, r=100;
+var width=100, r=100;
                     
                     setTimeout('ff()', 2);
                     function ff() {
