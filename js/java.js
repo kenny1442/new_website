@@ -8,7 +8,7 @@ document.querySelector('.button2').addEventListener('click',function(){
         }
         sliderLine.style.left = -offset + 'px';
 });
-document.querySelector('.button1').addEventListener('click',function(){
+document.querySelector('.button123').addEventListener('click',function(){
         offset = offset - 256;
         if (offset < 0){
                 offset = 2048
